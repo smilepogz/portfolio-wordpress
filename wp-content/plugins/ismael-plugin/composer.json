@@ -1,0 +1,16 @@
+{
+    "name": "ismael/ismael-plugin",
+    "description": "Awesome stater plugin",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Ismael",
+            "email": "abuasyah@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}, 
+    "autoload" : {
+        "psr-4" : { "Inc\\": "./inc" }
+    }
+}
